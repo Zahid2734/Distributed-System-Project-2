@@ -7,7 +7,7 @@ System : Ubuntu 18.04
 Dummy_vec_process3.py
 3. CENTRALIZED LOCKING: Centralize.py, Client1.py, Client2.py, Client3.py
 
-#Instructions: 
+# Instructions: 
 For task 1 and 2, run the .py files sequentially and see the output in three terminals.
 For task 3, run the Centralized.py first and then run the other three client.py files and see the output
 in the three terminals.
